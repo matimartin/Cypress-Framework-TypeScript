@@ -1,0 +1,18 @@
+{
+    "excelValidData": {
+        "headers": {
+            "TenantName": "TENANT NAME",
+            "TenantCode": "TENNAT CODE",
+            "OrgName": "ORG NAME",
+            "SupportNumber": "SUPOORT NUMBER"
+        },
+        "data": [{
+            "TenantName": "",
+            "TenantCode": "",
+            "OrgName": "",
+            "SupportNumber": "123456789"
+        }]
+    },
+    "filePath":"InputDataFile.xlsx",
+    "uploadFilePath":"downloads/InputDataFile.xlsx"
+}

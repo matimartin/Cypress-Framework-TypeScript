@@ -1,0 +1,7 @@
+{
+    "LOCAL":"http://localhost:4200/",
+    "DEV":"https://todomvc-app-for-testing.surge.sh/",
+    "QA":"https://demoqa.com/",
+    "PREPROD":"https://learn.cypress.io/",
+    "PROD":"https://www.covid19india.org/"
+}

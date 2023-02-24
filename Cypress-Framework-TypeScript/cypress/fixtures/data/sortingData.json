@@ -1,0 +1,56 @@
+{
+  "sortBy": {
+    "covid":{
+    "column": [
+      {
+        "name": "State/UT",
+        "type": "string",
+        "key":"state/ut",
+        "selector":"stateSortLink"
+      },
+      {
+        "name": "Confirmed",
+        "type": "string",
+        "key":"confirmed",
+        "selector":"confirmedSortLink"
+      },
+      {
+        "name": "Active",
+        "type": "string",
+        "key":"active",
+        "selector":"activeSortLink"
+      },
+      {
+        "name": "Recovered",
+        "type": "string",
+        "key":"recovered",
+        "selector":"recoveredSortLink"
+      },
+      {
+        "name": "Deceased",
+        "type": "string",
+        "key":"deceased",
+        "selector":"deceasedSortLink"
+      },
+      {
+        "name": "Teste",
+        "type": "string",
+        "key":"teste",
+        "selector":"testeSortLink"
+      }
+    ]
+  }
+},
+
+  "sortInOrder":
+  [
+    "asendingOrder",
+    "descendingOrder"
+  ],
+  "RecordsPerPageDropdownOptions":[
+    10,
+    25,
+    50,
+    100
+  ]
+}
